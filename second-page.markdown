@@ -1,6 +1,7 @@
 ---
 title: Second page
 date: 2017-01-13 20:49:00 Z
+published: false
 ---
 
 # Second page
@@ -8,6 +9,8 @@ date: 2017-01-13 20:49:00 Z
 [Previous](./my-first-page.html)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat nisl a porta congue. Sed varius risus ac tempus pulvinar. Ut sit amet dignissim quam. Praesent vel justo turpis. Morbi eu risus nec tortor dignissim porta. Vivamus arcu est, consequat ac felis sit amet, interdum rutrum lorem. Curabitur quis nibh vitae ligula facilisis facilisis. Ut in nibh dapibus, consequat lectus eu, porttitor tortor. Proin eget finibus mauris, eu gravida tellus. Etiam dui tortor, vulputate id diam eu, convallis auctor dolor. Phasellus mattis laoreet libero. Proin maximus ipsum in enim sagittis, nec efficitur odio ultricies. Mauris eleifend arcu id lorem fermentum bibendum. Duis posuere at metus sit amet tincidunt. Vivamus at orci mauris. Donec ultrices non dui sed viverra.
+
+![avatar1.jpg](/uploads/avatar1.jpg)
 
 1. **Apples**
 2. **Pears**
