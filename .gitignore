@@ -1,0 +1,4 @@
+.vagrant/
+_site
+*.log
+.*.swp
