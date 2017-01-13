@@ -1,7 +1,6 @@
 ---
 title: Second page
 date: 2017-01-13 20:49:00 Z
-published: false
 ---
 
 # Second page
